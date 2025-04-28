@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋, I'm Manas Ranjan
 
-<!--
-**toadsage01/toadsage01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a computer enthusiast passionate about software development.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on **GSoC Projects**
+- 💬 Ask me about **Java, npm, node, machine learning, pygame**
+- 📫 How to reach me: **iammanas17@gmail.com**
+- ⚡ Fun fact: **I love travelling and adventure sports.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- Add more badges for your skills -->
+
+## 📈 GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+## ✨ Featured Projects
+- [Project 1 Name](Link) — Short one-liner about the project.
+- [Project 2 Name](Link) — Short one-liner about the project.
