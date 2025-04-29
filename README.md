@@ -6,7 +6,7 @@ I'm a computer enthusiast passionate about software development.
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate on **GSoC Projects**
 - 💬 Ask me about **Java, npm, node, machine learning, pygame**
-- 📫 How to reach me: **iammanas17@gmail.com**
+- 📫 How to reach me: **iammanas17@outlook.com**
 - ⚡ Fun fact: **I love travelling and adventure sports.**
 
 ## 🛠️ Skills
